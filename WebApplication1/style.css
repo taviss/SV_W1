@@ -1,0 +1,25 @@
+﻿body {
+    background-color:lightslategrey;
+}
+
+
+#form_1 {
+    background-color:aliceblue;
+    border: 10px hidden;
+    border: 5px solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+textarea {
+    background-color:red;
+}
+
+#test {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.forms_n {
+    background-color:yellow !important;
+}
