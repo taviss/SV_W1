@@ -17,9 +17,10 @@ textarea {
 
 #test {
     font-family:'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .forms_n {
-    background-color:green !important;
+    background-color:yellow !important;
+    border: 1px hidden;
 }
